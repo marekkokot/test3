@@ -2,5 +2,5 @@
 using namespace std;
 int main(int argc, char**argv)
 {
-	cout << "hello\n";
+	cout << "hello 2\n";
 }
