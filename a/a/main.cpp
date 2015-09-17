@@ -7,4 +7,5 @@ int main(int argc, char**argv)
 	cout <<"modified with sourceTree";
 	cout << "aaa";
 	cout << "lublin";
+	cout << "cola";
 }
