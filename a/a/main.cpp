@@ -8,4 +8,5 @@ int main(int argc, char**argv)
 	cout << "aaa";
 	cout << "lublin";
 	cout << "cola";
+	cout << "ddd";
 }
